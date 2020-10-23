@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Chandan, a Phd candidate at UC berkeley working on interpretable machine-learning across domains.
+### Hi there 👋. I'm Chandan, a Phd candidate at UC berkeley working on interpretable machine-learning.
 
 🤖 I like to explain and play around with machine learning and data science
 - [notes/posts on ml](https://github.com/csinva/csinva.github.io)
