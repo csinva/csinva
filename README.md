@@ -39,11 +39,11 @@ And I also explore various aspects of deep learning
 
 <table border="0">
  <tr>
-    <td><a href="https://github.com/csinva/https://github.com/csinva/gan-vae-pretrained-pytorch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=gan-vae-pretrained-pytorch"></a></td>
+    <td><a href="https://github.com/csinva/gan-vae-pretrained-pytorch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=gan-vae-pretrained-pytorch"></a></td>
      <td><a href="https://github.com/csinva/gpt2-paper-title-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=gpt2-paper-title-generator"></a></td>
  </tr>
  <tr>
-    <td><a href="https://github.com/csinva/https://github.com/csinva/matching-with-gans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=matching-with-gans"></a></td>
+    <td><a href="https://github.com/csinva/matching-with-gans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=matching-with-gans"></a></td>
      <td><a href="https://github.com/csinva/mdl-complexity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csinva&repo=mdl-complexity"></a></td>
  </tr>  
 </table>
