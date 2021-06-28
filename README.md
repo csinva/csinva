@@ -30,7 +30,7 @@
 
 **[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury.
 
-**[auxilin-prediction](https://github.com/csinva/auxilin-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/auxilin-prediction?color=blue&style=flat-square)** Predicting successful CME events using only clathrin markers.
+**[molecular-partner-prediction](https://github.com/Yu-Group/molecular-partner-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/auxilin-prediction?color=blue&style=flat-square)** Predicting successful CME events using only clathrin markers.
 
 
 ## And I also explore various aspects of deep learning and machine learning
