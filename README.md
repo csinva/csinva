@@ -7,7 +7,7 @@
 
 **[csinva.github.io](https://github.com/csinva/csinva.github.io) ![](https://img.shields.io/github/stars/csinva/csinva.github.io?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/csinva.github.io?color=blue&style=flat-square)** Slides, paper notes, class notes, blog posts, and research on ML, stat, and AI.
 
-**[imodels](https://github.com/csinva/imodels) ![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable ML package for concise and accurate predictive modeling (sklearn-compatible).
+**[imodels](https://github.com/csinva/imodels) ![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable ML package for concise and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192)).
 
 **[veridical-flow](https://github.com/Yu-Group/pcs-pipeline) ![](https://img.shields.io/github/stars/Yu-Group/pcs-pipeline?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/pcs-pipeline?color=blue&style=flat-square)** Making it easier to build stable, trustworthy data-science pipelines.
 
@@ -26,7 +26,9 @@
 
 ## 📊 I care about working on serious applied data-science problems
 
-**[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals (HDSR, 2021)
+**[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
+
+**[rule-stress-testing](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/rule-stress-testing?color=blue&style=flat-square)** General pipeline for deriving clinical decision rules.
 
 **[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury.
 
