@@ -43,6 +43,8 @@
 
 **[disentangled-attribution-curves](https://github.com/csinva/disentangled-attribution-curves) ![](https://img.shields.io/github/stars/csinva/disentangled-attribution-curves?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/disentangled-attribution-curves?color=blue&style=flat-square)** "Disentangled Attribution Curves for Interpreting Random Forests and Boosted Trees" ([Arxiv 2019](https://arxiv.org/abs/1905.07631))
 
+**[data-viz-utils](https://github.com/csinva/data-viz-utils) ![](https://img.shields.io/github/stars/csinva/data-viz-utils?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/data-viz-utils?color=blue&style=flat-square)** "Functions for easily making publication-quality figures with matplotlib."
+
 **[matching-with-gans](https://github.com/csinva/matching-with-gans) ![](https://img.shields.io/github/stars/csinva/matching-with-gans?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/matching-with-gans?color=blue&style=flat-square)** Matching in GAN latent space for better bias benchmarking. ([CVPR workshop 2021](https://arxiv.org/abs/2103.13455))
 
 **[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/mdl-complexity?color=blue&style=flat-square)** "Revisiting complexity and the bias-variance tradeoff" ([TOPML workshop 2021](https://arxiv.org/abs/2006.10189))
