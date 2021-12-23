@@ -4,11 +4,9 @@
 
 ## 🤖 I like to explain and simplify machine learning
 
-
-**[csinva.github.io](https://github.com/csinva/csinva.github.io) ![](https://img.shields.io/github/stars/csinva/csinva.github.io?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/csinva.github.io?color=blue&style=flat-square)** Slides, paper notes, class notes, blog posts, and research on ML, stat, and AI
-
-
 <a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192))
+
+<a href="https://github.com/csinva/csinva.github.io"><img align="center" style="height:30px;" src="https://csinva.io/blog/compiled_notes/_build/html//_static/logo.png"> </img></a> **![](https://img.shields.io/github/stars/csinva/csinva.github.io?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/csinva.github.io?color=blue&style=flat-square)** Slides, paper notes, class notes, blog posts, and research on ML, stat, and AI
 
 <a href="https://github.com/Yu-Group/veridical-flow"><img align="center" style="height:26px;" src="https://yu-group.github.io/veridical-flow/logo_vflow_straight.png"> </img></a> **![](https://img.shields.io/github/stars/Yu-Group/pcs-pipeline?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/pcs-pipeline?color=blue&style=flat-square)** Making it easier to build stable, trustworthy data-science pipelines
 
