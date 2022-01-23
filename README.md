@@ -23,7 +23,7 @@
 **[transformation-importance](https://github.com/csinva/transformation-importance) ![](https://img.shields.io/github/stars/csinva/transformation-importance?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/transformation-importance?color=blue&style=flat-square)** Transformation Importance with Applications to Cosmology ([ICLR Workshop 2020](https://arxiv.org/abs/2003.01926))
 
 
-## 📊 My research also focuses on implactful applied data-science problems
+## 📊 My research also focuses on impactful data-science problems
 
 **[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
