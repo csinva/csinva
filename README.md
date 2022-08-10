@@ -32,9 +32,9 @@ Hi there 👋 I'm Chandan, a PhD candidate at UC Berkeley working on interpretab
 
 **[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
-**[rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/rule-stress-testing?color=blue&style=flat-square)** General pipeline for deriving clinical decision rules
+**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury ([PLOS Digital Health 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000076))
 
-**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury
+**[rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/rule-stress-testing?color=blue&style=flat-square)** General pipeline for deriving clinical decision rules
 
 **[molecular-partner-prediction](https://github.com/Yu-Group/molecular-partner-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/auxilin-prediction?color=blue&style=flat-square)** Predicting successful CME events using only clathrin markers
 
@@ -47,11 +47,11 @@ Hi there 👋 I'm Chandan, a PhD candidate at UC Berkeley working on interpretab
 
 **[disentangled-attribution-curves](https://github.com/csinva/disentangled-attribution-curves) ![](https://img.shields.io/github/stars/csinva/disentangled-attribution-curves?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/disentangled-attribution-curves?color=blue&style=flat-square)** Disentangled Attribution Curves for Interpreting Random Forests and Boosted Trees ([arxiv 2019](https://arxiv.org/abs/1905.07631))
 
-**[data-viz-utils](https://github.com/csinva/data-viz-utils) ![](https://img.shields.io/github/stars/csinva/data-viz-utils?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/data-viz-utils?color=blue&style=flat-square)** Functions for easily making publication-quality figures with matplotlib
-
 **[matching-with-gans](https://github.com/csinva/matching-with-gans) ![](https://img.shields.io/github/stars/csinva/matching-with-gans?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/matching-with-gans?color=blue&style=flat-square)** Matching in GAN latent space for better bias benchmarking. ([CVPR workshop 2021](https://arxiv.org/abs/2103.13455))
 
 **[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/mdl-complexity?color=blue&style=flat-square)** Revisiting complexity and the bias-variance tradeoff ([TOPML workshop 2021](https://arxiv.org/abs/2006.10189))
+
+**[data-viz-utils](https://github.com/csinva/data-viz-utils) ![](https://img.shields.io/github/stars/csinva/data-viz-utils?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/data-viz-utils?color=blue&style=flat-square)** Functions for easily making publication-quality figures with matplotlib
 
 ## Open-source contributions
 
