@@ -5,30 +5,34 @@ Hi there 👋 I'm Chandan, a PhD candidate at UC Berkeley working on interpretab
 </p>
 
 
-
-
-## 🤖 I make general-purpose AI packages and cheatsheets
-
-<a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192))
+## 🤖 General-purpose AI packages and cheatsheets
 
 <a href="https://github.com/csinva/csinva.github.io"><img align="center" style="height:30px;" src="https://csinva.io/blog/compiled_notes/_build/html//_static/logo.png"> </img></a> **![](https://img.shields.io/github/stars/csinva/csinva.github.io?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/csinva.github.io?color=blue&style=flat-square)** Slides, paper notes, class notes, blog posts, and research on ML, stat, and AI
 
 <a href="https://github.com/Yu-Group/veridical-flow"><img align="center" style="height:26px;" src="https://yu-group.github.io/veridical-flow/logo_vflow_straight.png"> </img></a> **![](https://img.shields.io/github/stars/Yu-Group/pcs-pipeline?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/pcs-pipeline?color=blue&style=flat-square)** Making it easier to build stable, trustworthy data-science pipelines ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03895))
 
+## 🌳 Interpretable models / dataset explanations
 
-## 🧠 Some of my research focuses on interpreting neural networks
+<a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192))
 
+**[adaptive-wavelets](https://github.com/Yu-Group/adaptive-wavelet-distillation) ![](https://img.shields.io/github/stars/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square)** Adaptive, interpretable wavelets across domains ([NeurIPS 2021](https://arxiv.org/abs/2107.09145))
+
+**[emb-gam](https://github.com/csinva/emb-gam) ![](https://img.shields.io/github/stars/csinva/emb-gam?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/emb-gam?color=blue&style=flat-square)** Learning better linear models in NLP using language models ([arXiv 2022](https://arxiv.org/abs/2209.11799))
+
+**[interpretable-autoprompting](https://github.com/csinva/interpretable-autoprompting) ![](https://img.shields.io/github/stars/csinva/interpretable-autoprompting?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/interpretable-autoprompting?color=blue&style=flat-square)** Explaining datasets with natural language via autoprompting ([arXiv 2022]())
+
+
+
+## 🧠 Interpreting neural networks
 
 **[hierarchical-dnn-interpretations](https://github.com/csinva/hierarchical-dnn-interpretations) ![](https://img.shields.io/github/stars/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square)** Hierarchical interpretations for neural network predictions ([ICLR 2019](https://arxiv.org/abs/1806.05337))
 
 **[deep-explanation-penalization](https://github.com/laura-rieger/deep-explanation-penalization) ![](https://img.shields.io/github/stars/laura-rieger/deep-explanation-penalization?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/laura-rieger/deep-explanation-penalization?color=blue&style=flat-square)** Interpretations are useful: penalizing explanations to align neural networks with prior knowledge ([ICML 2020](https://arxiv.org/abs/1909.13584))
 
-**[adaptive-wavelets](https://github.com/Yu-Group/adaptive-wavelet-distillation) ![](https://img.shields.io/github/stars/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square)** Adaptive, interpretable wavelets across domains ([NeurIPS 2021](https://arxiv.org/abs/2107.09145))
-
 **[transformation-importance](https://github.com/csinva/transformation-importance) ![](https://img.shields.io/github/stars/csinva/transformation-importance?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/transformation-importance?color=blue&style=flat-square)** Transformation Importance with Applications to Cosmology ([ICLR Workshop 2020](https://arxiv.org/abs/2003.01926))
 
 
-## 📊 My research also focuses on impactful data-science problems
+## 📊 Data-science problems
 
 **[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
@@ -39,7 +43,7 @@ Hi there 👋 I'm Chandan, a PhD candidate at UC Berkeley working on interpretab
 **[molecular-partner-prediction](https://github.com/Yu-Group/molecular-partner-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/auxilin-prediction?color=blue&style=flat-square)** Predicting successful CME events using only clathrin markers
 
 
-## And I also explore various aspects of deep learning and machine learning
+## Various aspects of deep learning and machine learning
 
 **[gan-vae-pretrained-pytorch](https://github.com/csinva/gan-vae-pretrained-pytorch) ![](https://img.shields.io/github/stars/csinva/gan-vae-pretrained-pytorch?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/gan-vae-pretrained-pytorch?color=blue&style=flat-square)** Pretrained GANs + VAEs + classifiers for MNIST/CIFAR in pytorch
 
