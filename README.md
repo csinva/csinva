@@ -9,18 +9,21 @@ Hi there 👋 I'm Chandan, a PhD candidate at UC Berkeley working on interpretab
 
 <a href="https://github.com/csinva/csinva.github.io"><img align="center" style="height:30px;" src="https://csinva.io/blog/compiled_notes/_build/html//_static/logo.png"> </img></a> **![](https://img.shields.io/github/stars/csinva/csinva.github.io?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/csinva.github.io?color=blue&style=flat-square)** Slides, paper notes, class notes, blog posts, and research on ML, stat, and AI
 
-<a href="https://github.com/Yu-Group/veridical-flow"><img align="center" style="height:26px;" src="https://yu-group.github.io/veridical-flow/logo_vflow_straight.png"> </img></a> **![](https://img.shields.io/github/stars/Yu-Group/pcs-pipeline?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/pcs-pipeline?color=blue&style=flat-square)** Making it easier to build stable, trustworthy data-science pipelines ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03895))
+<a href="https://github.com/Yu-Group/veridical-flow"><img align="center" style="height:30px;" src="https://yu-group.github.io/veridical-flow/logo_vflow_straight.png"> </img></a> **![](https://img.shields.io/github/stars/Yu-Group/pcs-pipeline?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/pcs-pipeline?color=blue&style=flat-square)** Making it easier to build stable, trustworthy data-science pipelines ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03895))
 
 ## 🌳 Interpretable models / dataset explanations
 
 <a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodels?color=blue&style=flat-square)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192))
 
+<a href="https://github.com/csinva/imodelsX"><img align="center" style="height:35px;" src="https://csinva.io/imodelsX/imodelsx_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodelsX?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/imodelsX?color=blue&style=flat-square)** Library to explain <i>a dataset</i> in natural language.
+
 **[adaptive-wavelets](https://github.com/Yu-Group/adaptive-wavelet-distillation) ![](https://img.shields.io/github/stars/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/adaptive-wavelet-distillation?color=blue&style=flat-square)** Adaptive, interpretable wavelets across domains ([NeurIPS 2021](https://arxiv.org/abs/2107.09145))
 
+<!---
 **[emb-gam](https://github.com/csinva/emb-gam) ![](https://img.shields.io/github/stars/csinva/emb-gam?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/emb-gam?color=blue&style=flat-square)** Learning better linear models in NLP using language models ([arXiv 2022](https://arxiv.org/abs/2209.11799))
 
 **[interpretable-autoprompting](https://github.com/csinva/interpretable-autoprompting) ![](https://img.shields.io/github/stars/csinva/interpretable-autoprompting?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/interpretable-autoprompting?color=blue&style=flat-square)** Explaining datasets with natural language via autoprompting ([arXiv 2022]())
-
+--->
 
 
 ## 🧠 Interpreting neural networks
