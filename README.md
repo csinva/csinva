@@ -28,9 +28,9 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## 🧠 Interpreting neural networks
 
-**[hierarchical-dnn-interpretations](https://github.com/csinva/hierarchical-dnn-interpretations) ![](https://img.shields.io/github/stars/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square)** Hierarchical interpretations for neural network predictions ([ICLR 2019](https://arxiv.org/abs/1806.05337))
-
 **[deep-explanation-penalization](https://github.com/laura-rieger/deep-explanation-penalization) ![](https://img.shields.io/github/stars/laura-rieger/deep-explanation-penalization?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/laura-rieger/deep-explanation-penalization?color=blue&style=flat-square)** Interpretations are useful: penalizing explanations to align neural networks with prior knowledge ([ICML 2020](https://arxiv.org/abs/1909.13584))
+
+**[hierarchical-dnn-interpretations](https://github.com/csinva/hierarchical-dnn-interpretations) ![](https://img.shields.io/github/stars/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/hierarchical-dnn-interpretations?color=blue&style=flat-square)** Hierarchical interpretations for neural network predictions ([ICLR 2019](https://arxiv.org/abs/1806.05337))
 
 **[transformation-importance](https://github.com/csinva/transformation-importance) ![](https://img.shields.io/github/stars/csinva/transformation-importance?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/transformation-importance?color=blue&style=flat-square)** Transformation Importance with Applications to Cosmology ([ICLR Workshop 2020](https://arxiv.org/abs/2003.01926))
 
@@ -39,9 +39,9 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/covid19-severity-prediction?color=blue&style=flat-square)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
-**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury ([PLOS Digital Health 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000076))
+**[clinical-rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/rule-stress-testing?color=blue&style=flat-square)** General pipeline for deriving clinical decision rules
 
-**[rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/Yu-Group/rule-stress-testing?color=blue&style=flat-square)** General pipeline for deriving clinical decision rules
+**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/iai-clinical-decision-rule?color=blue&style=flat-square)** Interpretable clinical decision rules for predicting intra-abdominal injury ([PLOS Digital Health 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000076))
 
 **[molecular-partner-prediction](https://github.com/Yu-Group/molecular-partner-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/auxilin-prediction?color=blue&style=flat-square)** Predicting successful CME events using only clathrin markers
 
@@ -56,9 +56,9 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[matching-with-gans](https://github.com/csinva/matching-with-gans) ![](https://img.shields.io/github/stars/csinva/matching-with-gans?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/matching-with-gans?color=blue&style=flat-square)** Matching in GAN latent space for better bias benchmarking. ([CVPR workshop 2021](https://arxiv.org/abs/2103.13455))
 
-**[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/mdl-complexity?color=blue&style=flat-square)** Revisiting complexity and the bias-variance tradeoff ([TOPML workshop 2021](https://arxiv.org/abs/2006.10189))
-
 **[data-viz-utils](https://github.com/csinva/data-viz-utils) ![](https://img.shields.io/github/stars/csinva/data-viz-utils?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/data-viz-utils?color=blue&style=flat-square)** Functions for easily making publication-quality figures with matplotlib
+
+**[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/mdl-complexity?color=blue&style=flat-square)** Revisiting complexity and the bias-variance tradeoff ([TOPML workshop 2021](https://arxiv.org/abs/2006.10189))
 
 ## Open-source contributions
 
