@@ -59,6 +59,10 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/csinva/mdl-complexity?color=blue&style=flat-square)** Revisiting complexity and the bias-variance tradeoff ([TOPML workshop 2021](https://arxiv.org/abs/2006.10189))
 
+## Projects advised
+
+**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=blue&style=flat-square&label=%E2%AD%90) ![](https://img.shields.io/github/forks/QingruZhang/PASTA?color=blue&style=flat-square)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([NeurIPS workshop 2023](https://arxiv.org/abs/2311.02262))
+
 ## Open-source contributions
 
 Major: **[autogluon](https://github.com/awslabs/autogluon) ![](https://img.shields.io/github/stars/awslabs/autogluon?color=blue&style=flat-square&label=%E2%AD%90), [big-bench](https://github.com/google/BIG-bench) ![](https://img.shields.io/github/stars/google/BIG-bench?color=blue&style=flat-square&label=%E2%AD%90), [nl-augmenter](https://github.com/GEM-benchmark/NL-Augmenter) ![](https://img.shields.io/github/stars/GEM-benchmark/NL-Augmenter?color=blue&style=flat-square&label=%E2%AD%90)**
