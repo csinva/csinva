@@ -54,7 +54,7 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## Projects advised
 
-**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([NeurIPS workshop 2023](https://arxiv.org/abs/2311.02262))
+**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262))
 
 ## Open-source contributions
 
