@@ -56,6 +56,10 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262))
 
+**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning
+ ([arXiv 2024](https://arxiv.org/abs/2401.13986))
+
+
 ## Open-source contributions
 
 Major: **[autogluon](https://github.com/awslabs/autogluon) ![](https://img.shields.io/github/stars/awslabs/autogluon?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE), [big-bench](https://github.com/google/BIG-bench) ![](https://img.shields.io/github/stars/google/BIG-bench?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE), [nl-augmenter](https://github.com/GEM-benchmark/NL-Augmenter) ![](https://img.shields.io/github/stars/GEM-benchmark/NL-Augmenter?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**
