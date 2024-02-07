@@ -54,10 +54,12 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## Projects advised
 
-**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262))
+**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262)), led by [Qingru Zhang](https://github.com/QingruZhang)
 
-**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning
- ([arXiv 2024](https://arxiv.org/abs/2401.13986))
+**[meta-tree](https://github.com/EvanZhuang/MetaTree) ![](https://img.shields.io/github/stars/EvanZhuang/MetaTree?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Learning a Decision Tree Algorithm with Transformers ([arXiv 2024](https://arxiv.org/abs/2402.03774)), led by [Yufan Zhuang](https://github.com/EvanZhuang)
+
+**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Towards Consistent Natural-Language Explanations ([arXiv 2024](https://arxiv.org/abs/2401.13986)), led by [Yanda Chen](https://github.com/yandachen)
+
 
 
 ## Open-source contributions
