@@ -6,11 +6,11 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## 🌳 Interpretable models / dataset explanations
 
-<a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192)), Contains FIGS ([arXiv 2022](https://arxiv.org/abs/2201.11931)) and HSTree ([ICML 2022](https://arxiv.org/abs/2202.00858))
+<a href="https://github.com/csinva/imodels"><img align="center" style="height:30px;" src="https://csinva.io/imodels/img/imodels_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodels?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Interpretable and accurate predictive modeling, sklearn-compatible ([JOSS 2021](https://joss.theoj.org/papers/10.21105/joss.03192)). Contains FIGS ([arXiv 2022](https://arxiv.org/abs/2201.11931)) and HSTree ([ICML 2022](https://arxiv.org/abs/2202.00858))
 
 <a href="https://github.com/csinva/imodelsX"><img align="center" style="height:35px;" src="https://csinva.io/imodelsX/imodelsx_logo.svg?sanitize=True"> </img></a> **![](https://img.shields.io/github/stars/csinva/imodelsX?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Interpretability for text. Contains Aug-imodels ([Nature Communications 2023](https://arxiv.org/abs/2209.11799)) ![](https://img.shields.io/github/stars/microsoft/augmented-interpretable-models?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE), iPrompt ([ICLR workshop 2023](https://arxiv.org/abs/2210.01848)) ![](https://img.shields.io/github/stars/csinva/interpretable-autoprompting?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE), SASC ([arXiv 2023](https://arxiv.org/abs/2305.09863)) ![](https://img.shields.io/github/stars/microsoft/automated-explanations?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE), and Tree-Prompt ([EMNLP 2023](https://arxiv.org/abs/2310.14034)) ![](https://img.shields.io/github/stars/csinva/tree-prompt?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)
 
-**[adaptive-wavelets](https://github.com/Yu-Group/adaptive-wavelet-distillation) ![](https://img.shields.io/github/stars/Yu-Group/adaptive-wavelet-distillation?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Adaptive, interpretable wavelets across domains ([NeurIPS 2021](https://arxiv.org/abs/2107.09145))
+**[adaptive-wavelets](https://github.com/Yu-Group/adaptive-wavelet-distillation) ![](https://img.shields.io/github/stars/Yu-Group/adaptive-wavelet-distillation?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Adaptive, interpretable wavelets ([NeurIPS 2021](https://arxiv.org/abs/2107.09145))
 
 ## 🤖 General-purpose AI packages and cheatsheets
 
@@ -24,16 +24,16 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[hierarchical-dnn-interpretations](https://github.com/csinva/hierarchical-dnn-interpretations) ![](https://img.shields.io/github/stars/csinva/hierarchical-dnn-interpretations?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Hierarchical interpretations for neural network predictions ([ICLR 2019](https://arxiv.org/abs/1806.05337))
 
-**[transformation-importance](https://github.com/csinva/transformation-importance) ![](https://img.shields.io/github/stars/csinva/transformation-importance?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Transformation Importance with Applications to Cosmology ([ICLR Workshop 2020](https://arxiv.org/abs/2003.01926))
+**[transformation-importance](https://github.com/csinva/transformation-importance) ![](https://img.shields.io/github/stars/csinva/transformation-importance?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Feature importance for transformations ([ICLR Workshop 2020](https://arxiv.org/abs/2003.01926))
 
 
 ## 📊 Data-science problems
 
-**[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Extensive and accessible COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
+**[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Extensive COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
 **[clinical-rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** General pipeline for deriving clinical decision rules
 
-**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Interpretable clinical decision rules for predicting intra-abdominal injury ([PLOS Digital Health 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000076))
+**[iai-clinical-decision-rule](https://github.com/csinva/iai-clinical-decision-rule) ![](https://img.shields.io/github/stars/csinva/iai-clinical-decision-rule?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Clinical decision rules for predicting intra-abdominal injury ([PLOS Digital Health 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000076))
 
 **[molecular-partner-prediction](https://github.com/Yu-Group/molecular-partner-prediction) ![](https://img.shields.io/github/stars/csinva/auxilin-prediction?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Predicting successful CME events using only clathrin markers
 
@@ -44,7 +44,7 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[gpt2-paper-title-generator](https://github.com/csinva/gpt2-paper-title-generator) ![](https://img.shields.io/github/stars/csinva/gpt2-paper-title-generator?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Generating paper titles with GPT-2
 
-**[disentangled-attribution-curves](https://github.com/csinva/disentangled-attribution-curves) ![](https://img.shields.io/github/stars/csinva/disentangled-attribution-curves?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Disentangled Attribution Curves for Interpreting Random Forests and Boosted Trees ([arxiv 2019](https://arxiv.org/abs/1905.07631))
+**[disentangled-attribution-curves](https://github.com/csinva/disentangled-attribution-curves) ![](https://img.shields.io/github/stars/csinva/disentangled-attribution-curves?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Attribution curves for interpreting tree ensembles trees ([arxiv 2019](https://arxiv.org/abs/1905.07631))
 
 **[matching-with-gans](https://github.com/csinva/matching-with-gans) ![](https://img.shields.io/github/stars/csinva/matching-with-gans?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Matching in GAN latent space for better bias benchmarking. ([CVPR workshop 2021](https://arxiv.org/abs/2103.13455))
 
@@ -54,11 +54,11 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## Projects advised
 
-**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262)), led by [Qingru Zhang](https://github.com/QingruZhang)
+**[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262)), led by [Qingru Zhang](https://github.com/QingruZhang)
 
 **[meta-tree](https://github.com/EvanZhuang/MetaTree) ![](https://img.shields.io/github/stars/EvanZhuang/MetaTree?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Learning a Decision Tree Algorithm with Transformers ([arXiv 2024](https://arxiv.org/abs/2402.03774)), led by [Yufan Zhuang](https://github.com/EvanZhuang)
 
-**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Towards Consistent Natural-Language Explanations ([arXiv 2024](https://arxiv.org/abs/2401.13986)), led by [Yanda Chen](https://github.com/yandachen)
+**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**  Consistent Natural-Language Explanations ([arXiv 2024](https://arxiv.org/abs/2401.13986)), led by [Yanda Chen](https://github.com/yandachen)
 
 
 
