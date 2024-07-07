@@ -42,7 +42,7 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[gan-vae-pretrained-pytorch](https://github.com/csinva/gan-vae-pretrained-pytorch) ![](https://img.shields.io/github/stars/csinva/gan-vae-pretrained-pytorch?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Pretrained GANs + VAEs + classifiers for MNIST/CIFAR in pytorch
 
-**[gpt2-paper-title-generator](https://github.com/csinva/gpt2-paper-title-generator) ![](https://img.shields.io/github/stars/csinva/gpt2-paper-title-generator?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Generating paper titles with GPT-2
+**[gpt-paper-title-generator](https://github.com/csinva/gpt-paper-title-generator) ![](https://img.shields.io/github/stars/csinva/gpt2-paper-title-generator?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Generating paper titles with GPT-2
 
 **[disentangled-attribution-curves](https://github.com/csinva/disentangled-attribution-curves) ![](https://img.shields.io/github/stars/csinva/disentangled-attribution-curves?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Attribution curves for interpreting tree ensembles trees ([arxiv 2019](https://arxiv.org/abs/1905.07631))
 
