@@ -1,7 +1,7 @@
 <p>
   <pre align="center">
 Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on interpretable machine learning.
-<a href="https://csinva.io/">Homepage</a> / <a href="https://twitter.com/csinva">Twitter</a> / <a href="https://scholar.google.com/citations?hl=en&user=XpttKK8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> / <a href="https://www.linkedin.com/in/csinva/">LinkedIn</a> </pre>
+<a href="https://csinva.io/">Homepage</a> / <a href="https://twitter.com/csinva">Twitter</a> / <a href="https://scholar.google.com/citations?hl=en&user=vPYz4QwAAAAJ">Google Scholar</a> / <a href="https://www.linkedin.com/in/csinva/">LinkedIn</a> </pre>
 </p>
 
 ## 🌳 Interpretable models / dataset explanations
