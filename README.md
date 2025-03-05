@@ -29,6 +29,8 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 ## 📊 Data-science problems
 
+**[automated-brain-explanations](https://github.com/microsoft/automated-brain-explanations) ![](https://img.shields.io/github/stars/microsoft/automated-brain-explanations?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Building natural-language explanations for the brain. Contains GCT ([arxiv 2024](https://arxiv.org/abs/2410.00812))
+
 **[covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) ![](https://img.shields.io/github/stars/Yu-Group/covid19-severity-prediction?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Extensive COVID-19 data + forecasting for counties and hospitals ([HDSR 2021](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/4))
 
 **[clinical-rule-vetting](https://github.com/Yu-Group/rule-stress-testing) ![](https://img.shields.io/github/stars/Yu-Group/rule-stress-testing?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**, **[analyzing-patient-perspectives](https://github.com/csinva/analyzing-patient-perspectives) ![](https://img.shields.io/github/stars/csinva/analyzing-patient-perspectives?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**, **[clinical-rule-survey](https://github.com/csinva/clinical-rule-survey) ![](https://img.shields.io/github/stars/csinva/clinical-rule-survey?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** General pipelines for deriving/auditing clinical decision rules
