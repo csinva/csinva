@@ -66,8 +66,6 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[induction-gram](https://github.com/ejkim47/induction-gram) ![](https://img.shields.io/github/stars/ejkim47/induction-gram?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**  Interpretable Language Modeling via Induction-head Ngram Models ([arXiv 2024](https://arxiv.org/abs/2401.13986)), led by [Eunji Kim](https://github.com/ejkim47) & [Sriya Mantena](https://github.com/SriyaM)
 
-**[lmm-graph-eval](https://github.com/microsoft/lmm-graphical-perception) ![](https://img.shields.io/github/stars/microsoft/lmm-graphical-perception?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Towards Understanding Graphical Perception in Large Multimodal Models, led by [Kai Zhang](https://github.com/drogozhang)
-
 
 ## Open-source contributions
 
