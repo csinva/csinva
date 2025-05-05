@@ -58,7 +58,7 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[meta-tree](https://github.com/EvanZhuang/MetaTree) ![](https://img.shields.io/github/stars/EvanZhuang/MetaTree?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Learning a Decision Tree Algorithm with Transformers ([TMLR 2024](https://arxiv.org/abs/2402.03774)), led by [Yufan Zhuang](https://github.com/EvanZhuang)
 
-**[sim-dino](https://github.com/RobinWu218/SimDINO) ![](https://img.shields.io/github/stars/RobinWu218/SimDINO?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Simplifying DINO via coding rate regularization ([arXiv 2025](https://arxiv.org/abs/2502.10385)), led by [Ziyang Wu](https://github.com/RobinWu218)
+**[sim-dino](https://github.com/RobinWu218/SimDINO) ![](https://img.shields.io/github/stars/RobinWu218/SimDINO?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Simplifying DINO via coding rate regularization ([ICML 2025](https://arxiv.org/abs/2502.10385)), led by [Ziyang Wu](https://github.com/RobinWu218)
 
 **[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**  Consistent Natural-Language Explanations ([COLING 2025](https://arxiv.org/abs/2401.13986)), led by [Yanda Chen](https://github.com/yandachen)
 
