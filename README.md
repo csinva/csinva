@@ -52,15 +52,15 @@ Hi there 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on 
 
 **[mdl-complexity](https://github.com/csinva/mdl-complexity) ![](https://img.shields.io/github/stars/csinva/mdl-complexity?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Revisiting complexity and the bias-variance tradeoff ([JMLR 2021](https://arxiv.org/abs/2006.10189))
 
-## Projects advised
+## Selected projects advised
+
+**[sim-dino](https://github.com/RobinWu218/SimDINO) ![](https://img.shields.io/github/stars/RobinWu218/SimDINO?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Simplifying DINO via coding rate regularization ([ICML 2025](https://arxiv.org/abs/2502.10385)), led by [Ziyang Wu](https://github.com/RobinWu218)
 
 **[pasta](https://github.com/QingruZhang/PASTA) ![](https://img.shields.io/github/stars/QingruZhang/PASTA?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Post-hoc Attention Steering for LLMs ([ICLR 2024](https://arxiv.org/abs/2311.02262)), led by [Qingru Zhang](https://github.com/QingruZhang)
 
 **[meta-tree](https://github.com/EvanZhuang/MetaTree) ![](https://img.shields.io/github/stars/EvanZhuang/MetaTree?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Learning a Decision Tree Algorithm with Transformers ([TMLR 2024](https://arxiv.org/abs/2402.03774)), led by [Yufan Zhuang](https://github.com/EvanZhuang)
 
-**[sim-dino](https://github.com/RobinWu218/SimDINO) ![](https://img.shields.io/github/stars/RobinWu218/SimDINO?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Simplifying DINO via coding rate regularization ([ICML 2025](https://arxiv.org/abs/2502.10385)), led by [Ziyang Wu](https://github.com/RobinWu218)
-
-**[explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning) ![](https://img.shields.io/github/stars/yandachen/explanation-consistency-finetuning?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**  Consistent Natural-Language Explanations ([COLING 2025](https://arxiv.org/abs/2401.13986)), led by [Yanda Chen](https://github.com/yandachen)
+**[mixture-of-inputs](https://github.com/EvanZhuang/mixinputs) ![](https://img.shields.io/github/stars/EvanZhuang/mixinputs?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)** Text Generation Beyond Discrete Token Sampling ([NeurIPS 2025](https://openreview.net/pdf?id=l6C6Pw30Gl)), led by [Yufan Zhuang](https://github.com/EvanZhuang)
 
 **[induction-gram](https://github.com/ejkim47/induction-gram) ![](https://img.shields.io/github/stars/ejkim47/induction-gram?color=%23EEE&style=flat-square&label=%E2%AD%90&labelColor=%23EEE)**  Interpretable Language Modeling via Induction-head Ngram Models ([NeurIPS 2025](https://arxiv.org/abs/2401.13986)), led by [Eunji Kim](https://github.com/ejkim47) & [Sriya Mantena](https://github.com/SriyaM)
 
