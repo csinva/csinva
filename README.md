@@ -27,7 +27,7 @@
 
 <p>
 <a href="https://github.com/csinva/imodels"><b>imodels</b></a>&nbsp; <img src="https://img.shields.io/github/stars/csinva/imodels?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Interpretable, accurate, sklearn-compatible predictive modeling — decision trees and simple things that work<br>
+Interpretable, accurate, sklearn-compatible predictive modeling, built on decision trees and simple things that work<br>
 <a href="https://joss.theoj.org/papers/10.21105/joss.03192"><code>JOSS&nbsp;2021</code></a> <a href="https://arxiv.org/abs/2201.11931"><code>FIGS&nbsp;·&nbsp;PNAS&nbsp;2022</code></a> <a href="https://arxiv.org/abs/2202.00858"><code>HSTree&nbsp;·&nbsp;ICML&nbsp;2022</code></a>
 </p>
 
@@ -129,31 +129,31 @@ Predicting successful CME events using only clathrin markers
 
 <p>
 <a href="https://github.com/RobinWu218/SimDINO"><b>sim-dino</b></a>&nbsp; <img src="https://img.shields.io/github/stars/RobinWu218/SimDINO?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Simplifying DINO via coding rate regularization — led by <a href="https://github.com/RobinWu218">Ziyang Wu</a><br>
+Simplifying DINO via coding rate regularization (led by <a href="https://github.com/RobinWu218">Ziyang Wu</a>)<br>
 <a href="https://arxiv.org/abs/2502.10385"><code>ICML&nbsp;2025</code></a>
 </p>
 
 <p>
 <a href="https://github.com/QingruZhang/PASTA"><b>pasta</b></a>&nbsp; <img src="https://img.shields.io/github/stars/QingruZhang/PASTA?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Post-hoc attention steering for LLMs — led by <a href="https://github.com/QingruZhang">Qingru Zhang</a><br>
+Post-hoc attention steering for LLMs (led by <a href="https://github.com/QingruZhang">Qingru Zhang</a>)<br>
 <a href="https://arxiv.org/abs/2311.02262"><code>ICLR&nbsp;2024</code></a>
 </p>
 
 <p>
 <a href="https://github.com/EvanZhuang/MetaTree"><b>meta-tree</b></a>&nbsp; <img src="https://img.shields.io/github/stars/EvanZhuang/MetaTree?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Learning a decision tree algorithm with transformers — led by <a href="https://github.com/EvanZhuang">Yufan Zhuang</a><br>
+Learning a decision tree algorithm with transformers (led by <a href="https://github.com/EvanZhuang">Yufan Zhuang</a>)<br>
 <a href="https://arxiv.org/abs/2402.03774"><code>TMLR&nbsp;2024</code></a>
 </p>
 
 <p>
 <a href="https://github.com/EvanZhuang/mixinputs"><b>mixture-of-inputs</b></a>&nbsp; <img src="https://img.shields.io/github/stars/EvanZhuang/mixinputs?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Text generation beyond discrete token sampling — led by <a href="https://github.com/EvanZhuang">Yufan Zhuang</a><br>
+Text generation beyond discrete token sampling (led by <a href="https://github.com/EvanZhuang">Yufan Zhuang</a>)<br>
 <a href="https://openreview.net/pdf?id=l6C6Pw30Gl"><code>NeurIPS&nbsp;2025</code></a>
 </p>
 
 <p>
 <a href="https://github.com/ejkim47/induction-gram"><b>induction-gram</b></a>&nbsp; <img src="https://img.shields.io/github/stars/ejkim47/induction-gram?style=flat-square&label=%E2%98%85&labelColor=eee&color=eee" alt="stars" valign="middle"><br>
-Interpretable language modeling via induction-head ngram models — led by <a href="https://github.com/ejkim47">Eunji Kim</a> &amp; <a href="https://github.com/SriyaM">Sriya Mantena</a><br>
+Interpretable language modeling via induction-head ngram models (led by <a href="https://github.com/ejkim47">Eunji Kim</a> &amp; <a href="https://github.com/SriyaM">Sriya Mantena</a>)<br>
 <a href="https://arxiv.org/abs/2401.13986"><code>NeurIPS&nbsp;2025</code></a>
 </p>
 
@@ -217,9 +217,9 @@ Revisiting complexity and the bias-variance tradeoff<br>
 <summary><b>Open-source contributions</b></summary>
 <br>
 
-<b>Major</b> — <a href="https://github.com/awslabs/autogluon">autogluon</a> · <a href="https://github.com/google/BIG-bench">big-bench</a> · <a href="https://github.com/GEM-benchmark/NL-Augmenter">nl-augmenter</a>
+<b>Major:</b> <a href="https://github.com/awslabs/autogluon">autogluon</a> · <a href="https://github.com/google/BIG-bench">big-bench</a> · <a href="https://github.com/GEM-benchmark/NL-Augmenter">nl-augmenter</a>
 <br><br>
-<b>Minor</b> — <a href="https://github.com/lixin4ever/Conference-Acceptance-Rate">conference-acceptance-rates</a> · <a href="https://github.com/Yu-Group/iterative-Random-Forest">iterative-random-forest</a> · <a href="https://github.com/christophM/interpretable-ml-book">interpretable-ml-book</a> · <a href="https://github.com/lopusz/awesome-interpretable-machine-learning">awesome-interpretable-machine-learning</a> · <a href="https://github.com/jphall663/awesome-machine-learning-interpretability">awesome-machine-learning-interpretability</a> · <a href="https://github.com/JShollaj/awesome-llm-interpretability">awesome-llm-interpretability</a> · <a href="https://github.com/executablebooks/meta">executable-books</a> · <a href="https://github.com/HuthLab/deep-fMRI-dataset">deep-fMRI-dataset</a>
+<b>Minor:</b> <a href="https://github.com/lixin4ever/Conference-Acceptance-Rate">conference-acceptance-rates</a> · <a href="https://github.com/Yu-Group/iterative-Random-Forest">iterative-random-forest</a> · <a href="https://github.com/christophM/interpretable-ml-book">interpretable-ml-book</a> · <a href="https://github.com/lopusz/awesome-interpretable-machine-learning">awesome-interpretable-machine-learning</a> · <a href="https://github.com/jphall663/awesome-machine-learning-interpretability">awesome-machine-learning-interpretability</a> · <a href="https://github.com/JShollaj/awesome-llm-interpretability">awesome-llm-interpretability</a> · <a href="https://github.com/executablebooks/meta">executable-books</a> · <a href="https://github.com/HuthLab/deep-fMRI-dataset">deep-fMRI-dataset</a>
 
 </details>
 
