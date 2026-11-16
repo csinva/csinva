@@ -1,5 +1,3 @@
-<h2 align="center">Chandan Singh</h2>
-
 <p align="center">
   AI &amp; interpretability researcher · Staff Research Scientist at <a href="https://www.voyageai.com/"><b>Voyage AI</b></a>, training large embedding models<br>
   <sub>Previously ~4 years at Microsoft Research (Deep Learning group) · PhD in AI at UC Berkeley with Bin Yu</sub>
